@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 * {
     margin: 4px 0 0 0;
+    font-family: Inter;
 
 }
 
@@ -15,7 +16,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-    font-family: Inter;
+    
     font-size: 16px;
     color: #3A404E;
     font-weight: bold;
@@ -29,7 +30,6 @@
     display: flex;
     list-style: none;
     gap: 30px;
-    font-family: Inter;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
@@ -53,7 +53,6 @@
     border: 0;
     color: #667085;
     background-color: white;
-    font-family: Inter;
     font-size: 16px;
     font-weight: bold;
     line-height: 24px;
@@ -68,7 +67,6 @@
 .cadastrarButton {
     background-color: #8E2424;
     padding: 96px, 0px, 96px, 0px;
-    font-family: Inter;
     font-size: 16px;
     font-weight: bold;
     line-height: 24px;
@@ -81,4 +79,47 @@
     border-radius: 8px;
     color: #ffffff;
     border: 0;
+}
+
+.h1 {
+    height: 407px;
+    width: 100vw;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobreNos {
+    height: 24px;
+    width: 90px;
+    left: 681px;
+    top: 96px;
+    border-radius: nullpx;
+    color: #8E2424;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+}
+.textoH1 {
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    color: #101828;
+}
+.pezinho {
+    width: 791px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #667085;
+    text-align: center;
 }
