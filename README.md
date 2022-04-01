@@ -6,3 +6,6 @@ https://7daysofcode.io/
 * First pic: Figma reference;
 * Second pic: me grinding some CSS.
 
+## Day 2: H1, Sobre nós e pzinho
+![proof2](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof2.png)
+
