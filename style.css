@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+* {
+    margin: 4px 0 0 0;
+
+}
+
+.containerHeader {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 70px 0 45px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: Inter;
+    font-size: 16px;
+    color: #3A404E;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 10px 0 0 25px;
+}
+
+.pagesList {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085; 
+}
+
+.whiteSpace {
+    background-color: #ffffff;
+    width: 180px;
+    height: 32px;
+}
+
+.buttonsList {
+    display: flex;
+    list-style: none;
+}
+
+.entrarButton {
+    padding: 96px, 0px, 96px, 0px;
+    border: 0;
+    color: #667085;
+    background-color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 83px;
+    height: 44px;
+    border-radius: 8px;
+
+}
+
+.cadastrarButton {
+    background-color: #8E2424;
+    padding: 96px, 0px, 96px, 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    height: 44px;
+    width: 112px;
+    left: 95px;
+    top: 0px;
+    border-radius: 8px;
+    color: #ffffff;
+    border: 0;
+}
