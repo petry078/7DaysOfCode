@@ -123,3 +123,37 @@
     color: #667085;
     text-align: center;
 }
+
+.metricas {
+    display: flex;
+    justify-content: center;
+}
+
+.containerMetricas {
+    display: flex;
+    width: 85vw;
+    justify-content: space-between;
+}
+
+.metrica {
+    width: 280px;
+    margin: 12px;
+}
+
+.metrica h2 {
+    font-size: 60px;
+    color: #8E2424;
+}
+
+.metrica h3 {
+    font-size: 18px;
+    color: #101828;
+}
+
+.metrica p {
+    font-size: 16px;
+    color: #667085;
+    margin: 12px 0 0 0;
+    line-height: 24px;
+    
+}
