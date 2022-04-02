@@ -9,3 +9,5 @@ https://7daysofcode.io/
 ## Day 2: H1, Sobre nós e pzinho
 ![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof2.png)
 
+## Day 3: Métricas
+![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof3.png)
