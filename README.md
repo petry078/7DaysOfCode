@@ -11,3 +11,6 @@ https://7daysofcode.io/
 
 ## Day 3: Métricas
 ![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof3.png)
+
+## Day 4: Vagas abertas e img
+![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof4.png)
