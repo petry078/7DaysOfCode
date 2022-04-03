@@ -158,6 +158,23 @@
     line-height: 24px;
 }
 
+.vagasAbertas {
+    height: 24px;
+    width: 120px;
+    left: 681px;
+    top: 96px;
+    border-radius: nullpx;
+    color: #8E2424;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 16px;
+    padding: 4px 12px;
+    background: rgba(142, 36, 36, 0.05)
+}
+
 .reuniaoContainer {
     display: flex;
     justify-content: center;
