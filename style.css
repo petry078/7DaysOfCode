@@ -83,7 +83,7 @@
 
 .h1 {
     height: 407px;
-    width: 100vw;
+    width: 99vw;
     gap: 24px;
     display: flex;
     flex-direction: column;
@@ -93,7 +93,7 @@
 
 .sobreNos {
     height: 24px;
-    width: 90px;
+    width: 120px;
     left: 681px;
     top: 96px;
     border-radius: nullpx;
@@ -102,6 +102,7 @@
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0em;
+    text-align: center;
 }
 .textoH1 {
     height: 60px;
@@ -155,5 +156,9 @@
     color: #667085;
     margin: 12px 0 0 0;
     line-height: 24px;
-    
+}
+
+.reuniaoContainer {
+    display: flex;
+    justify-content: center;
 }
