@@ -3,6 +3,7 @@
 * {
     margin: 4px 0 0 0;
     font-family: Inter;
+    font-weight: bold;
 
 }
 
@@ -235,4 +236,62 @@
     margin: 12px 0 0 0;
     display: flex;
     flex-direction: row;
+}
+
+.containerRosinha {
+    height: 404px;
+    width: 1216px;
+    margin: 0 auto;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chamadinha {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #8E2424;
+    margin: 16px 0px;
+    font-weight: bolder;
+}
+.h2Depoimento {
+    font-weight: 500;
+    line-height: 44px;
+    font-size: 36px;
+    letter-spacing: -0.02em;
+    color: #101828;
+    flex: none;
+    margin: 16px 0px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.fotoGi {
+    width: 56px;
+    left: 516px;
+    top: 0px;
+    height: 56px;
+    border-radius: 200px;
+    margin: 16px 0px;
+}
+.nome {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    font-weight: bold;
+    color: #101828;
+    margin: 4px 0px;
+}
+.cargo {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #667085;
+    margin: 4px 0px;
 }
