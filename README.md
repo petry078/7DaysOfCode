@@ -1,5 +1,6 @@
 # 7DaysOfCode
-https://7daysofcode.io/
+Challenge: https://7daysofcode.io/;
+My soluction: https://codepen.io/petry078/full/LYezQjR
 
 ## Day 1: Header
 ![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof.png)
