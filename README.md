@@ -14,3 +14,6 @@ https://7daysofcode.io/
 
 ## Day 4: Vagas abertas e img
 ![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof4.png)
+
+## Day 4: Lista de vagas (gostosinho esse hein)
+![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof5.png)

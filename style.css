@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 * {
     margin: 4px 0 0 0;
     font-family: Inter;
@@ -16,7 +17,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-    
+
     font-size: 16px;
     color: #3A404E;
     font-weight: bold;
@@ -34,7 +35,7 @@
     font-weight: bold;
     font-size: 16px;
     line-height: 24px;
-    color: #667085; 
+    color: #667085;
 }
 
 .whiteSpace {
@@ -104,6 +105,7 @@
     letter-spacing: 0em;
     text-align: center;
 }
+
 .textoH1 {
     height: 60px;
     left: 0px;
@@ -115,6 +117,7 @@
     letter-spacing: -0.03em;
     color: #101828;
 }
+
 .pezinho {
     width: 791px;
     font-size: 20px;
@@ -160,7 +163,7 @@
 
 .vagasAbertas {
     height: 24px;
-    width: 120px;
+    width: 130px;
     left: 681px;
     top: 96px;
     border-radius: nullpx;
@@ -178,4 +181,58 @@
 .reuniaoContainer {
     display: flex;
     justify-content: center;
+}
+
+.containerVagas {
+    margin: 0 auto;
+    width: 768px;
+}
+
+.categoriaVaga {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #101828;
+    margin: 64px 0 32px 0;
+}
+
+.vaga {
+    width: 100%;
+    height: 136px;
+    border: 1px solid #EAECF0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    padding: 24px 24px 28px;
+    margin-bottom: 24px;
+}
+
+.tituloVaga {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 8px 0px;
+}
+
+.espaco {
+    height: 1px;
+    width: 24px;
+}
+
+.informacoes {
+    width: 100%;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+    margin: 12px 0 0 0;
+    display: flex;
+    flex-direction: row;
 }
