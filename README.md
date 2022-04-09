@@ -21,3 +21,6 @@
 
 ## Day 6: Depoimento
 ![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof6.png)
+
+## Day 7: Footer
+![proof](https://raw.githubusercontent.com/petry078/7DaysOfCode/main/proof7.png)
