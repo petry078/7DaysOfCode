@@ -1,4 +1,5 @@
 # 7DaysOfCode
+#7DaysOfCode HTML & CSS
 * Challenge: https://7daysofcode.io/;
 * My soluction: https://codepen.io/petry078/full/LYezQjR
 
